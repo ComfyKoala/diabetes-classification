@@ -1,10 +1,13 @@
 # diabetes-classification
-
+<a id="readme-top"></a>
 <details>
 <summary>Table of Contents:</summary>
 
 1. [Project Summary](#Project-Summary)
     - [Objectives](#Objectives)
+2. [Data Sources](#data-sources)
+3. [Getting Started](#getting-started)
+4. [Acknowledgments](#acknowledgements)
 
 </details>
 
@@ -23,3 +26,27 @@ The Diabetes Risk Predictor project aims to develop a machine learning model cap
     - Visualizing the dataset helps provide an overview of the dataset such as number of participants, gender mix, race mix, and other key factors.
 5. **Demonstration of the Neural Network Model:**
     - Import the saved model file to demonstrate the ease of replicating the neural network model for future datasets.
+
+
+## Data Sources:
+All [four datasets](csv_files/) were retrieved from [Kaggle](https://www.kaggle.com/).
+
+
+## Getting Started:
+#### *Running the Neural Network Model*
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Upload the following files to Google Colab:
+    - [Demo_Building_Model](Final_Data/Demo/Demo_Building_Model.ipynb): this file shows how the neural network model was built with the original dataset.
+    - [Demo_Exploration](Final_Data/Demo/Demo_Exploration.ipynb): this file shows the neural network model predicting outcomes using a new dataset.
+3. Open the files.
+4. Run the code.
+
+
+## Acknowledgements:
+#### *Resources used to help in completion of the project.*
+1. XPert Learning Assistant
+2. ChatGPT
+3. Data Bootcamp Class Materials
+4. Instructor & TA
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
