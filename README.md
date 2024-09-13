@@ -1,5 +1,16 @@
-# diabetes-classification
 <a id="readme-top"></a>
+
+<div align="center">
+<h3 align="center">Diabe-Detect</h3>
+  <p align="center">
+    <br />
+    <a href="https://docs.google.com/presentation/d/16wTgaM4S4pJg3qj5uFvz_P2EA3nUseTtjT3ZOf2ahK4/edit?usp=sharing">Slide Deck</a>
+    ·
+    <a href="https://github.com/ComfyKoala/diabetes-classification/blob/main/Final_Data/Demo/Diabe-Detect.pdf">Tableau Visualizations</a>
+  </p>
+</div>
+
+
 <details>
 <summary>Table of Contents:</summary>
 
